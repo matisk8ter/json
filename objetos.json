@@ -1,10 +1,17 @@
-[
-    {
-        "id":"1",
-        "auto":"Fiat",
-        "color":"rojo",
-        "KM":"0"
-
-         
-    }
-]
+{
+    "libros": [
+        {
+            "titulo": "Cuento de amor de locura y de merte",
+            "cantidad": 2,
+            "dias": 9,
+            "img": "img/1.jfif"
+        },
+        {
+            "titulo": "El pozo",
+            "cantidad": 1,
+            "dias": 12,
+            "img": "img/4.jfif"
+        }
+        
+    ]
+}
